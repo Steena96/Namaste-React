@@ -19,7 +19,7 @@
   padding: 10px;
 }
 
-res-container {
+.res-container {
   flex-wrap: wrap;
   display: flex;
 }
@@ -41,6 +41,11 @@ res-container {
 
 .res-logo {
   width: 100%;
+}
+
+.filter-btn {
+  cursor: pointer;
+  margin: 10px;
 }
 
 /*# sourceMappingURL=index.9e4c6fd2.css.map */

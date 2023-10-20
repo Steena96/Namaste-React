@@ -19,7 +19,7 @@
     margin: 10px;
 }
 
-res-container {
+.res-container {
     display: flex;
     flex-wrap: wrap;
 }
@@ -42,3 +42,8 @@ res-container {
 .res-logo {
     width: 100%;
 }
+
+.filter-btn {
+    margin: 10px;
+    cursor: pointer;
+   }
