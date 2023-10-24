@@ -1,5 +1,4 @@
 <img width="947" alt="5" src="https://github.com/Steena96/Restaurant-Project/assets/83919969/2c8f04d6-95ac-427f-a0d8-63cfe8891e02">
-<img width="960" alt="4" src="https://github.com/Steena96/Restaurant-Project/assets/83919969/245f9b2f-5b71-415c-956d-36043b10acac">
 # Namaste-React
 
 /**
